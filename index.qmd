@@ -68,7 +68,7 @@ Smoking-related lung cancer will be covered separately.
 
 [1. Global Initiative for Chronic Obstructive Lung Disease (GOLD) https://goldcopd.org/]{style="color: white; font-size: 24px;"}
 
-## 
+## Pulmonary Funtion Testing -- measured parameters
 
 <br> <br><br>
 
@@ -82,7 +82,7 @@ Smoking-related lung cancer will be covered separately.
 :::
 :::
 
-## 
+## Total Lung Capacity
 
 <br> <br>
 
@@ -171,19 +171,20 @@ Dynamic hyperinflation
 :::
 :::
 
-## Emphysema-dominant COPD phenotype
+## Emphysema-dominant COPD phenotype -- Radiography
 
 <br>
 
 ![](images/emphysemacxranalyzevessels.jpg){fig-align="center" width="100%"}
 
-## 
+
+## Emphysema-dominant phenotype -- CT
 
 <br>
 
 ![](images/emphysemacxrCT.jpg){fig-align="center" width="100%"}
 
-## 
+## Emphysema-dominant phenotype -- radiography and CT
 
 <br>
 
