@@ -1,0 +1,430 @@
+---
+format: 
+  revealjs:
+    logo: images/circle-cropped.png
+    link-external-newwindow: true
+    theme: [dark, mycustom.scss]
+    width: 1600
+    height: 900
+    slide-number: c/t
+    code-line-numbers: false
+    chalkboard: false
+editor: visual
+---
+
+<br> <br>
+
+<h1>Smoking-Related Lung Disease</h1>
+
+<br>
+
+<h2>Howard Mann, M.D.</h2>
+
+<h2>University of Utah School of Medicine</h2>
+
+<br><br><br><br>
+
+<h2>`r fontawesome::fa("envelope", "white")`   howard.mann\@utah.edu</h2>
+
+<h2>`r fontawesome::fa("link", "white")`   [howardmann.us](http://howardmann.us)</h2>
+
+<br>
+
+<h2>URL: https://howardm.github.io/Smoking-Related Lung Disease</h2>
+
+![](images/UhealthLogo.png){.absolute top="325" right="300" width="300"}
+
+## Contents
+
+<br>
+
+Common diseases
+
+-   COPD
+-   Langerhan's Cell Histiocytosis
+-   Pulmonary accumulation of smoker's macrophages
+-   Smoking-Related Interstitial Fibrosis
+-   Combined Pulmonary Fibrosis and Emphysema Syndrome
+
+<br>
+
+Rare association
+
+-   Acute Eosinophilic Pneumonia
+
+Smoking-related lung cancer will be covered separately.
+
+## COPD
+
+<br>
+
+[Clinical definition^1^]{style="color: white; font-size: 36px;"}
+
+<br>
+
+[Lung disease characterized by chronic obstruction of lung airflow that interferes with normal breathing and is not fully reversible.]{style="color: white; font-size: 36px;"}
+
+<br>
+
+[1. Global Initiative for Chronic Obstructive Lung Disease (GOLD) https://goldcopd.org/]{style="color: white; font-size: 24px;"}
+
+## 
+
+<br> <br><br>
+
+::: columns
+::: {.column width="50%"}
+![](images/PFTs.jpg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+![](images/lungvolumes.jpg){fig-align="center" width="88%"}
+:::
+:::
+
+## 
+
+<br> <br>
+
+::: columns
+::: {.column width="50%"}
+![](images/tlcdisease.jpg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+![](images/eyeballingTLC.jpg){fig-align="center" width="100%"}
+
+Increased RV (a static lung volume) in COPD
+:::
+:::
+
+## Spirometry in the diagnosis of COPD
+
+<br>
+
+![](images/spirometrydefinitions.jpg){fig-align="center" width="95%"}
+
+## COPD and associated conditions
+
+<br>
+
+**Chronic Bronchitis**
+
+The presence of a chronic productive cough for 3 months in each of 2 successive years, provided that other causes of chronic cough have been ruled out
+
+<br>
+
+**Emphysema**
+
+Destruction of alveolar walls and the permanent enlargement of the airspaces distal to the terminal bronchioles, without obvious fibrosis
+
+<br>
+
+**Asthma**
+
+Reversible smooth muscle contraction that narrows the airway lumen, limiting expiratory airflow and resulting in symptoms including wheeze, cough, and exertion dyspnea
+
+## COPD phenotypes
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+<br>
+
+-   Airway-dominant phenotype
+
+-   Emphysema-dominant phenotype
+
+-   Mixed phenotype
+
+We can make these distinctions on CT.
+:::
+
+::: {.column width="70%"}
+![](images/pathologycopd.jpg){fig-align="center" width="100%"}
+:::
+:::
+
+## Hyperinflation in COPD
+
+<br>
+
+::: columns
+::: {.column width="30%"}
+<br> The effects on lung volumes correlate well with functional capacity and symptoms
+
+<br>
+
+Static hyperinflation
+
+-   diminished elastic recoil of emphysematous lung
+-   significant in severe bullous emphysema
+
+Dynamic hyperinflation
+
+-   inability to exhale all inspired air through narrowed airways
+:::
+
+::: {.column width="70%"}
+![](images/hyperinflationCXR.jpg){fig-align="center" width="60%"}
+:::
+:::
+
+## Emphysema-dominant COPD phenotype
+
+<br>
+
+![](images/emphysemacxranalyzevessels.jpg){fig-align="center" width="100%"}
+
+## 
+
+<br>
+
+![](images/emphysemacxrCT.jpg){fig-align="center" width="100%"}
+
+## 
+
+<br>
+
+![](images/emphysemacxrCTtwo.jpg){fig-align="center" width="100%"}
+
+## Airway-dominant COPD phenotype -- CXR
+
+<br>
+
+![](images/airwaydominantcxr.jpg){fig-align="center" width="100%"}
+
+## Airway-dominant COPD phenotype -- CT
+
+<br>
+
+![](images/airwaydominantCT.jpg){fig-align="center" width="100%"}
+
+<br>
+
+Note: bronchial wall thickening
+
+## Comparison between emphysema- and airway-dominant COPD
+
+<br>
+
+![](images/comparisonCTs.jpg){fig-align="center" width="100%"}
+
+## Langerhan's Cell Histiocytosis
+
+<br>
+
+What are Langerhan's Cells ?
+
+-   dendritic antigen-presenting cells
+-   migrate from bone marrow to skin and lungs
+-   histiocytes are tissue-resident macrophages
+-   chracteristic morphology and cell surface receptors: CD1a; S-100; langerin (CD207)
+
+The evolution of pulmonary histiocytosis (PLCH) accounts for the imaging findings:
+
+-   nodules reflective of cellular proliferation -- often stellate-shaped
+-   cavitation in nodules
+-   formation of irregularly-shaped cystic spaces \>\> chronic "burned-out" disease that looks like panlobular emphysema
+
+## Nodular PLCH
+
+<br>
+
+![](images/nodulesplch.jpg){fig-align="center" width="100%"}
+
+## Nodular PLCH
+
+<br> <br>
+
+![](images/plchnodulesunecessarybiopsy.jpg){fig-align="center" width="100%"}
+
+<br>
+
+::: {.callout-note appearance="minimal"}
+Key Points
+
+-   Nodules of PLCH are typically upper-lobe predominant.
+-   MIPS images may reveal additional subcentimeter nodules
+:::
+
+## Nodular and cystic PLCH
+
+<br> <br>
+
+![](images/plchnodulescysts.jpg){fig-align="center" width="100%"}
+
+<br>
+
+::: {.callout-note appearance="minimal"}
+Note the predominant involvement of the upper lungs.
+:::
+
+## How would you report this radiograph ?
+
+<br>
+
+![](images/plchscxr.jpg){fig-align="center" width="100%"}
+
+## The corresponding CT
+
+<br>
+
+![](images/plchcxrwithCT.jpg){fig-align="center" width="100%"}
+
+::: {.callout-note icon="false"}
+## The very definition of an *Aunt Minnie*
+
+-   Nothing (!) else looks like this.
+:::
+
+## Nothing else -- really!
+
+Another *Aunt Minnie*
+
+<br>
+
+![](images/anothercasecysticplch.jpg){fig-align="center" width="100%"}
+
+
+
+## When the cystic disease of PLCH is very bad.
+
+<br> <br>
+
+![](images/plchbadcysticdisease.jpg){fig-align="center" width="100%"}
+
+## Challenge case
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+![](images/challengecase.jpg){fig-align="center" width="100%"}
+:::
+
+::: {.column width="50%"}
+```{=html}
+<div style="text-align:center;">
+
+<iframe 
+src="https://www.pacsbin.com/c/ZJ4og7kiGc?s=659dc2acf652e35c34e1565e&i=659dc2acf652e35c34e1565f&ww=1500&wc=-500&an=false&header=false&notes=false&overlay=false&scale=1.0" 
+style="width: 670px; height: 670px; border: 0;"></iframe>
+
+</div>
+ 
+```
+:::
+:::
+
+## Pulmonary accumulation of smoker's macrophages
+
+![](images/smokersmacrophages.jpg){fig-align="center" width="80%"}
+
+![](images/macrophagespraycan.jpg){fig-align="center" width="80%"}
+
+It's a matter of how many I put there with my *macrophage spray can*...
+
+## Terminology that is deserving of abandonment
+
+<br> <br>
+
+![](images/smokersmacrophagesannotated.jpg){fig-align="center" width="100%"}
+
+<br>
+
+Should we *really* discard DIP ?
+
+## Yes!
+
+<br>
+
+![](images/dipNOT.jpg){fig-align="center" width="100%"}
+
+## We need to pursue meaningful precision
+
+<br>
+
+![](images/dolphinsnotbigfish.jpg){fig-align="center" width="100%"}
+
+## Smoking-related Interstitial Fibrosis
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+Pathology
+
+Distinctive accumulation of swaths of "ropey collagen," particularly in the subpleural lungs
+
+![](images/ropeycollagen.jpg){fig-align="center" width="70%"} <br> arrow: ropey collagen arrowhead: pigmented smoker's macrophages
+:::
+
+::: {.column width="50%"}
+<br>
+
+![](images/srif.jpg){fig-align="center" width="100%"}
+
+[Source: Vehar, et al.SRIF https://doi.org/10.1093/ajcp/aqac144]{style="color: gray; font-size: 18px;"}
+
+<br>
+
+Yes, we cannot tell how much of the opacity is SRIF versus Smoker's Macrophages versus both!
+:::
+:::
+
+## Smoker's Lung
+
+<br> <br>
+
+![](images/smokerslung.jpg){fig-align="center" width="100%"} <br>
+
+**Suggested reporting terminology**
+
+"Findings of Smoker's Lung are present in the form of: centrilobular emphysema in the upper lungs and patchy pulmonary ground glass opacities, consistent with accumulation of Smoker's Macrophages and/or Smoking-Related Interstitial Fibrosis."
+
+## Smoker's Lung -- example two
+
+<br> <br>
+
+![](images/smokerslungtwo.jpg){fig-align="center" width="100%"}
+
+## Smoker's Lung -- example three
+
+<br> <br>
+
+![](images/smokerslungthree.jpg){fig-align="center" width="100%"}
+
+## Combined emphyema and fibrosis syndrome
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+<br> <br>
+
+![](images/ATSstatement.jpg){fig-align="left" width="100%"} <br> <br>
+
+![](images/cpfeproposeddefinition.jpg){fig-align="left" width="100%"}
+:::
+
+::: {.column width="50%"}
+![](images/cpfe.jpg){fig-align="center" width="50%"}
+:::
+:::
+
+## Smoking-related Acute Eosonophilic Pneumonia
+
+<br>
+
+![](images/aepfirstsmoker.jpg){fig-align="center" width="100%"}
+
+::: {.callout-note icon="false"}
+## Attributing a cause-and-effect relationship
+
+-   has been the subject of Case Reports
+-   typically occurs in young people who very recently (usually days) started smoking
+-   no alternative cause of esosinophilia is apparent
+-   consistent imaging findings
+:::
